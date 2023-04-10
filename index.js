@@ -43,7 +43,7 @@ let result = hacker1.localeCompare(hacker2);
 }
 
 
-
+//BONUS 1
 
 
 let longText = `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam mattis sem quis massa varius, id volutpat orci sagittis. Nam porttitor sodales hendrerit. Nullam vel purus eget lacus fermentum aliquam. Proin dictum dui sit amet eros pretium, sed eleifend purus suscipit. Curabitur dignissim volutpat lobortis. Curabitur rhoncus at ligula et varius. Cras hendrerit metus a lorem bibendum varius. Morbi sit amet tellus vel massa scelerisque sagittis. Pellentesque eget malesuada est, a ultrices enim. Aliquam eu eleifend purus.
@@ -70,6 +70,9 @@ for (let i = 0; i <longText.length; i++) {
 }
 
 console.log(count);
+
+
+// BONUS 2
 
 
 let phraseToCheck = "Palindrome";
